@@ -1,0 +1,797 @@
+id_student,url,homepage,subpage,resource,oucontent,oucollaborate,glossary,foruming,dataplus,he_level,gender,final_results
+11391,21,135,85,9,0,0,0,127,0,HE Qualification,M,Pass
+11393,11,53,34,0,0,0,0,50,0,A Level or Equivalent,M,Fail
+11400,12,64,49,2,2,2,0,58,0,A Level or Equivalent,F,Fail
+11501,2,24,8,0,0,0,2,14,0,A Level or Equivalent,F,Withdrawn
+11602,1,6,2,0,0,0,0,32,0,A Level or Equivalent,M,Withdrawn
+11714,2,16,5,0,0,0,0,13,0,A Level or Equivalent,F,Fail
+11802,6,44,11,1,0,0,1,21,0,A Level or Equivalent,M,Withdrawn
+11900,6,27,26,0,0,0,0,24,0,Lower Than A Level,M,Fail
+11980,4,24,9,0,0,0,0,14,0,A Level or Equivalent,F,Withdrawn
+12125,1,4,4,2,0,0,1,24,0,HE Qualification,M,Fail
+12300,2,14,5,0,0,0,0,30,0,A Level or Equivalent,F,Withdrawn
+12350,10,30,26,3,1,1,0,20,0,A Level or Equivalent,M,Withdrawn
+12400,0,15,3,0,0,0,0,22,0,Lower Than A Level,F,Fail
+12450,9,26,25,0,0,0,2,24,0,Lower Than A Level,M,Withdrawn
+12456,41,251,150,16,3,3,0,201,0,Post Graduate Qualification,M,Distinction
+12653,51,300,171,12,0,0,0,170,0,Lower Than A Level,M,Pass
+12890,61,278,162,10,0,0,0,151,0,A Level or Equivalent,M,Distinction
+12890,42,252,153,10,0,0,0,150,0,HE Qualification,M,Pass
+13120,2,2,4,2,0,0,0,26,0,HE Qualification,M,Fail
+13200,3,24,14,1,0,0,0,25,0,Lower Than A Level,F,Withdrawn
+13250,10,43,26,3,1,1,0,18,0,A Level or Equivalent,M,Fail
+13300,1,2,2,0,0,0,1,12,0,A Level or Equivalent,M,Withdrawn
+13400,2,15,3,0,0,0,1,22,0,Lower Than A Level,F,Withdrawn
+13478,52,288,182,13,0,0,1,160,0,A Level or Equivalent,M,Distinction
+14004,62,272,190,15,0,0,0,161,0,A Level or Equivalent,M,Pass
+14237,43,270,152,11,0,0,1,175,0,HE Qualification,F,Distinction
+14321,53,245,163,10,0,0,0,163,0,A Level or Equivalent,M,Pass
+14502,5,30,9,0,0,0,0,25,0,A Level or Equivalent,F,Fail
+14512,3,25,14,1,0,0,0,35,0,Lower Than A Level,F,Withdrawn
+14525,10,46,28,8,2,2,0,34,1,Lower Than A Level,F,Withdrawn
+14678,63,272,174,11,0,0,0,158,0,A Level or Equivalent,F,Distinction
+14876,44,252,185,17,0,0,2,163,0,A Level or Equivalent,F,Pass
+15002,54,255,196,17,0,0,2,172,0,A Level or Equivalent,F,Distinction
+15120,2,2,3,0,0,0,0,22,0,A Level or Equivalent,M,Withdrawn
+15205,9,60,23,1,2,2,0,39,0,A Level or Equivalent,M,Fail
+15227,5,33,9,0,0,0,0,20,0,A Level or Equivalent,F,Withdrawn
+15432,64,273,201,11,0,0,0,197,0,A Level or Equivalent,M,Distinction
+15678,45,293,150,15,0,0,0,200,0,A Level or Equivalent,M,Pass
+16007,55,268,161,13,0,0,1,199,0,Lower Than A Level,M,Distinction
+16209,3,20,14,2,0,0,0,17,0,A Level or Equivalent,F,Withdrawn
+16300,10,45,26,8,2,2,2,21,1,Lower Than A Level,F,Withdrawn
+16567,65,274,172,10,6,6,0,180,0,Lower Than A Level,F,Pass
+16578,46,259,183,11,0,0,0,170,0,A Level or Equivalent,F,Distinction
+16781,56,290,194,13,0,0,0,165,0,Post Graduate Qualification,M,Distinction
+17205,9,30,23,1,2,2,0,23,0,A Level or Equivalent,M,Fail
+17220,0,20,7,2,0,0,1,16,0,A Level or Equivalent,M,Withdrawn
+17250,3,20,18,4,3,3,2,26,0,A Level or Equivalent,M,Withdrawn
+17587,2,20,14,2,0,0,0,17,0,A Level or Equivalent,F,Withdrawn
+17654,66,315,200,10,0,0,0,174,0,HE Qualification,M,Pass
+17897,47,340,151,11,0,0,0,168,0,Post Graduate Qualification,F,Distinction
+17982,57,274,162,15,1,2,0,154,0,A Level or Equivalent,M,Distinction
+18215,5,20,12,4,3,3,1,23,0,A Level or Equivalent,M,Withdrawn
+18250,2,10,10,4,2,2,0,26,0,A Level or Equivalent,F,Withdrawn
+18456,67,272,173,13,0,0,0,185,0,Lower Than A Level,M,Distinction
+18765,48,272,184,10,6,6,0,176,0,Lower Than A Level,F,Pass
+18982,58,320,195,10,0,0,0,185,0,HE Qualification,M,Pass
+19077,68,227,152,11,3,3,0,189,8,Lower Than A Level,M,Distinction
+19876,49,317,163,11,3,3,1,179,8,Lower Than A Level,M,Fail
+19987,59,290,174,11,0,0,0,183,0,Lower Than A Level,F,Distinction
+20987,69,284,185,10,0,0,0,192,0,A Level or Equivalent,M,Distinction
+25341,40,310,196,10,0,0,0,188,0,HE Qualification,M,Pass
+25431,41,287,153,15,0,0,1,177,0,A Level or Equivalent,M,Distinction
+25450,3,10,10,1,0,0,0,13,0,A Level or Equivalent,M,Withdrawn
+25467,42,314,164,10,0,0,0,166,0,A Level or Equivalent,M,Distinction
+25478,4,10,12,4,2,2,0,27,0,A Level or Equivalent,F,Withdrawn
+25781,2,9,3,1,0,0,2,17,0,A Level or Equivalent,F,Withdrawn
+25896,50,310,175,10,0,1,0,185,0,HE Qualification,M,Distinction
+26541,52,274,186,10,0,0,0,172,0,HE Qualification,M,Distinction
+26578,2,21,7,2,0,0,0,17,0,A Level or Equivalent,M,Withdrawn
+26908,60,250,197,10,3,3,0,171,0,Post Graduate Qualification,M,Distinction
+27543,67,277,203,11,0,0,0,161,0,A Level or Equivalent,M,Distinction
+27890,49,287,154,16,3,3,0,158,0,Post Graduate Qualification,M,Distinction
+28400,36,144,93,0,0,0,0,146,0,HE Qualification,F,Pass
+28403,14,64,53,6,3,1,0,88,0,Lower Than A Level,M,Pass
+28602,10,69,62,0,0,2,0,54,0,A Level or Equivalent,F,Fail
+29123,1,9,10,1,0,0,1,23,0,A Level or Equivalent,M,Withdrawn
+29876,1,6,3,0,0,0,0,23,0,A Level or Equivalent,M,Withdrawn
+30127,2,30,25,3,1,1,0,35,0,A Level or Equivalent,F,Fail
+30240,0,8,3,1,0,0,2,27,0,A Level or Equivalent,F,Pass
+30268,3,27,10,0,0,0,0,24,0,A Level or Equivalent,F,Withdrawn
+30270,11,84,67,3,4,4,0,62,0,HE Qualification,M,Fail
+30456,48,280,165,12,0,0,1,181,3,A Level or Equivalent,M,Distinction
+30672,40,248,176,10,3,3,0,172,0,Post Graduate Qualification,M,Distinction
+30789,15,82,56,1,0,1,0,55,0,A Level or Equivalent,F,Fail
+31250,5,17,15,4,2,2,0,21,0,HE Qualification,F,Withdrawn
+31300,2,3,3,0,0,0,0,22,0,A Level or Equivalent,M,Fail
+31350,1,12,13,3,1,1,0,16,0,A Level or Equivalent,F,Withdrawn
+31400,0,26,5,0,0,0,2,16,0,A Level or Equivalent,F,Withdrawn
+31604,44,145,101,1,0,0,0,141,0,A Level or Equivalent,F,Pass
+31605,15,93,49,0,1,1,0,64,0,HE Qualification,M,Fail
+32408,18,86,32,0,0,0,0,58,0,HE Qualification,F,Fail
+32509,6,21,18,1,0,0,0,17,0,A Level or Equivalent,F,Withdrawn
+32600,4,17,17,4,2,2,0,21,0,HE Qualification,F,Withdrawn
+32602,1,21,5,0,0,0,0,20,0,A Level or Equivalent,F,Fail
+32700,7,9,19,9,0,0,0,32,0,HE Qualification,F,Withdrawn
+32885,20,136,78,0,0,0,0,131,0,Lower Than A Level,F,Pass
+32887,12,100,30,4,0,1,1,82,0,A Level or Equivalent,M,Fail
+33123,5,19,29,9,0,0,2,31,0,HE Qualification,F,Withdrawn
+33432,7,14,25,4,0,0,0,27,0,A Level or Equivalent,M,Withdrawn
+33450,2,11,3,0,0,0,0,30,0,HE Qualification,M,Pass
+33678,4,34,18,1,1,1,1,17,0,A Level or Equivalent,F,Withdrawn
+34356,10,57,45,0,0,0,0,54,0,Lower Than A Level,M,Fail
+35123,6,10,15,8,4,4,0,21,0,HE Qualification,M,Withdrawn
+35432,1,5,2,0,0,0,0,30,0,HE Qualification,M,Withdrawn
+35764,10,10,21,1,0,0,2,14,0,HE Qualification,M,Fail
+36906,9,27,25,4,0,1,1,26,0,A Level or Equivalent,M,Withdrawn
+37356,4,10,13,8,4,4,0,21,0,HE Qualification,M,Withdrawn
+37678,4,30,14,0,0,0,0,24,0,HE Qualification,M,Withdrawn
+37902,2,12,11,2,0,0,0,25,0,HE Qualification,F,Withdrawn
+38053,38,103,89,0,0,0,0,127,0,A Level or Equivalent,M,Pass
+38056,11,55,45,0,3,0,0,56,0,HE Qualification,M,Fail
+38403,3,32,10,1,0,0,1,34,0,HE Qualification,M,Withdrawn
+38418,3,32,14,0,0,2,2,24,0,HE Qualification,M,Withdrawn
+38500,10,30,21,1,2,0,0,25,0,HE Qualification,M,Withdrawn
+39125,4,26,17,2,3,3,3,30,0,Lower Than A Level,F,Fail
+39257,2,10,11,2,0,0,0,32,0,HE Qualification,F,Withdrawn
+40125,2,17,8,4,1,1,0,12,0,A Level or Equivalent,M,Fail
+40200,0,30,10,1,0,0,0,24,0,HE Qualification,M,Withdrawn
+40291,3,20,17,1,0,0,0,24,0,A Level or Equivalent,M,Pass
+40789,4,17,18,2,3,3,3,23,0,Lower Than A Level,F,Withdrawn
+41234,2,27,7,4,1,1,0,20,0,A Level or Equivalent,M,Fail
+41678,6,10,12,8,0,0,2,27,0,Lower Than A Level,F,Withdrawn
+41789,2,17,12,5,3,3,0,21,0,A Level or Equivalent,M,Withdrawn
+41876,6,21,18,1,0,2,1,24,0,A Level or Equivalent,M,Withdrawn
+42098,6,21,16,7,1,1,0,24,0,Lower Than A Level,M,Fail
+42123,3,19,15,2,1,1,0,29,1,Lower Than A Level,M,Withdrawn
+42356,0,31,13,5,3,3,0,32,0,A Level or Equivalent,M,Withdrawn
+42678,13,100,67,8,0,0,1,71,0,A Level or Equivalent,M,Fail
+43125,10,10,22,8,0,0,0,26,0,Lower Than A Level,F,Withdrawn
+43128,3,16,15,2,1,1,0,20,1,Lower Than A Level,M,Withdrawn
+43456,3,12,16,10,3,3,0,21,0,Lower Than A Level,F,Withdrawn
+44356,2,20,17,3,0,0,1,23,0,A Level or Equivalent,M,Fail
+44567,5,13,27,7,1,1,2,31,0,Lower Than A Level,M,Withdrawn
+45102,2,19,2,0,0,0,0,23,0,A Level or Equivalent,M,Withdrawn
+45200,2,13,15,10,3,3,0,21,0,Lower Than A Level,F,Fail
+45245,9,18,12,6,0,0,1,13,0,A Level or Equivalent,F,Withdrawn
+45400,10,70,54,0,4,1,0,62,0,A Level or Equivalent,F,Fail
+45462,26,142,98,0,2,2,0,112,0,HE Qualification,M,Pass
+45560,10,72,60,1,0,0,0,75,0,A Level or Equivalent,M,Fail
+45642,32,148,105,1,1,1,0,146,0,A Level or Equivalent,F,Pass
+45678,10,80,57,2,0,0,0,71,0,A Level or Equivalent,F,Fail
+49783,10,55,63,0,0,1,0,53,0,A Level or Equivalent,M,Pass
+50130,12,51,64,0,0,0,0,54,0,HE Qualification,F,Fail
+51234,10,62,46,0,1,0,0,51,0,A Level or Equivalent,M,Pass
+52130,26,147,104,2,2,2,0,125,0,A Level or Equivalent,F,Pass
+52789,10,86,56,0,0,0,0,50,0,Lower Than A Level,F,Fail
+53002,13,53,67,0,0,1,0,51,0,HE Qualification,M,Fail
+53025,38,132,109,1,0,0,0,101,0,Post Graduate Qualification,M,Pass
+55786,11,90,73,3,0,0,0,61,0,A Level or Equivalent,F,Fail
+57506,21,119,90,0,0,0,0,102,0,Lower Than A Level,M,Pass
+57809,11,71,69,9,0,0,0,63,0,Lower Than A Level,M,Fail
+58873,36,117,105,2,2,2,0,135,0,A Level or Equivalent,F,Pass
+58901,11,58,85,0,1,1,0,55,0,A Level or Equivalent,M,Pass
+58990,10,56,98,0,5,0,1,54,0,A Level or Equivalent,F,Fail
+59127,11,52,72,0,0,0,0,51,0,HE Qualification,M,Fail
+59185,27,151,108,5,1,1,0,122,0,Lower Than A Level,M,Pass
+60174,10,63,80,0,0,0,2,52,0,A Level or Equivalent,M,Fail
+61783,12,73,64,0,0,1,0,65,0,HE Qualification,F,Fail
+62155,30,125,82,1,1,1,0,141,0,HE Qualification,F,Pass
+62367,10,77,60,2,0,0,0,81,0,A Level or Equivalent,M,Fail
+63126,19,94,56,6,1,1,4,81,0,Lower Than A Level,F,Fail
+63400,27,120,123,1,0,0,0,122,0,Lower Than A Level,M,Pass
+63456,5,19,7,5,1,1,0,26,1,HE Qualification,F,Withdrawn
+63567,3,25,12,3,0,2,0,21,0,A Level or Equivalent,M,Withdrawn
+64125,0,14,2,0,0,0,0,32,0,A Level or Equivalent,M,Fail
+64156,6,16,23,6,0,1,1,19,0,A Level or Equivalent,F,Withdrawn
+64578,2,35,9,1,1,1,0,19,0,A Level or Equivalent,F,Fail
+65002,1,17,6,0,0,0,0,23,0,A Level or Equivalent,F,Withdrawn
+65120,11,91,33,5,12,12,0,87,0,HE Qualification,M,Fail
+65567,2,29,6,0,0,0,2,21,0,HE Qualification,M,Withdrawn
+65987,0,36,9,1,1,1,0,19,0,A Level or Equivalent,F,Withdrawn
+65990,3,20,8,3,0,0,1,14,0,A Level or Equivalent,M,Pass
+65997,8,13,25,4,0,0,0,25,0,A Level or Equivalent,M,Withdrawn
+66120,17,61,30,0,0,0,0,61,0,A Level or Equivalent,F,Fail
+67234,6,24,8,3,0,0,0,13,0,A Level or Equivalent,M,Withdrawn
+67456,2,25,8,5,1,1,0,26,1,HE Qualification,F,Withdrawn
+67834,16,92,54,6,2,2,0,84,0,Lower Than A Level,F,Fail
+68123,2,30,6,0,0,0,0,19,0,HE Qualification,M,Pass
+68234,9,34,26,4,0,0,0,25,0,A Level or Equivalent,M,Withdrawn
+68456,2,10,15,8,0,0,0,21,0,HE Qualification,F,Withdrawn
+68897,0,12,4,0,1,1,2,18,0,Lower Than A Level,F,Fail
+69467,2,20,7,4,0,0,0,16,0,HE Qualification,F,Withdrawn
+69786,0,14,14,8,2,0,1,16,0,HE Qualification,F,Withdrawn
+70464,36,149,96,0,2,2,0,120,0,A Level or Equivalent,F,Pass
+70672,58,274,187,11,0,0,1,169,0,A Level or Equivalent,F,Distinction
+70776,11,63,32,1,0,1,0,70,0,HE Qualification,F,Fail
+70981,20,70,38,5,0,0,0,61,1,Lower Than A Level,M,Fail
+70987,62,281,198,12,0,0,1,181,3,A Level or Equivalent,M,Distinction
+71234,69,280,200,12,0,0,0,154,0,Lower Than A Level,M,Distinction
+71256,11,58,39,0,4,0,2,52,0,A Level or Equivalent,F,Fail
+71361,22,118,96,2,1,1,0,144,0,HE Qualification,M,Pass
+72365,15,76,30,6,0,0,0,51,0,HE Qualification,F,Fail
+72564,13,75,44,2,4,3,0,53,4,A Level or Equivalent,F,Fail
+73457,13,66,53,0,0,0,0,54,0,Lower Than A Level,M,Pass
+74372,10,53,37,0,0,0,0,50,0,A Level or Equivalent,M,Fail
+74980,19,88,37,9,1,1,0,68,0,A Level or Equivalent,M,Pass
+75091,39,122,93,4,0,0,0,138,0,A Level or Equivalent,M,Pass
+75679,11,90,68,0,1,0,0,55,0,Lower Than A Level,F,Fail
+76342,58,290,155,12,0,0,1,156,0,Lower Than A Level,M,Distinction
+76765,49,289,166,10,0,0,0,197,0,Post Graduate Qualification,M,Distinction
+76800,12,70,60,1,0,0,0,51,0,HE Qualification,M,Fail
+77367,21,131,98,1,0,0,0,122,0,A Level or Equivalent,M,Pass
+77891,62,252,177,11,0,0,0,184,0,A Level or Equivalent,F,Distinction
+86501,50,259,188,11,0,0,0,170,0,A Level or Equivalent,F,Distinction
+87900,10,58,40,2,0,0,0,56,0,A Level or Equivalent,F,Fail
+90125,11,62,59,1,2,0,0,60,0,HE Qualification,F,Fail
+91172,12,52,55,0,0,0,0,50,0,A Level or Equivalent,M,Fail
+91180,47,298,199,10,0,0,0,169,0,A Level or Equivalent,M,Distinction
+91265,37,141,102,1,0,0,0,100,0,HE Qualification,M,Pass
+93124,12,53,70,2,3,2,0,58,0,A Level or Equivalent,F,Fail
+94562,14,64,51,6,0,1,0,68,0,Lower Than A Level,M,Fail
+94961,7,29,20,0,0,0,0,23,0,Lower Than A Level,M,Withdrawn
+98076,11,57,43,0,0,2,0,64,0,A Level or Equivalent,F,Fail
+98094,20,134,105,2,0,0,0,116,0,Lower Than A Level,M,Pass
+99561,11,53,46,3,4,4,0,52,0,HE Qualification,M,Fail
+100120,14,52,45,1,0,1,0,55,0,Lower Than A Level,F,Pass
+100267,15,51,57,0,1,1,2,64,0,HE Qualification,M,Fail
+100670,19,56,65,0,0,0,0,58,0,HE Qualification,F,Fail
+100893,38,122,114,0,1,1,0,110,0,A Level or Equivalent,M,Pass
+101453,11,61,49,4,0,1,0,62,0,A Level or Equivalent,M,Fail
+101781,26,135,132,1,0,0,0,128,0,Lower Than A Level,M,Pass
+102567,11,60,40,0,0,0,0,64,0,Lower Than A Level,M,Fail
+102678,11,54,51,0,5,0,0,66,0,A Level or Equivalent,M,Fail
+102806,31,123,122,2,0,0,0,111,0,A Level or Equivalent,M,Pass
+102952,20,142,125,2,0,0,0,143,0,HE Qualification,M,Pass
+103451,14,51,61,8,0,0,0,71,0,Lower Than A Level,M,Fail
+103671,10,58,72,0,0,1,0,62,0,A Level or Equivalent,F,Fail
+104476,35,130,136,2,5,5,0,139,0,Post Graduate Qualification,M,Pass
+105345,11,70,64,1,0,0,0,55,0,HE Qualification,M,Fail
+105670,12,68,44,2,0,0,0,61,0,Lower Than A Level,F,Fail
+106120,10,64,57,0,0,1,4,73,0,A Level or Equivalent,M,Pass
+106247,0,3,3,2,0,0,0,5,0,HE Qualification,M,Withdrawn
+106577,20,140,106,4,0,0,0,122,0,Lower Than A Level,M,Pass
+107076,13,62,42,0,3,0,0,74,0,HE Qualification,F,Fail
+107435,10,72,37,0,4,0,0,61,0,A Level or Equivalent,M,Fail
+107457,11,74,40,0,0,0,0,70,0,Lower Than A Level,F,Pass
+108123,13,62,39,0,0,1,0,61,0,HE Qualification,M,Fail
+108253,11,56,60,3,0,0,0,71,0,A Level or Equivalent,M,Pass
+109678,12,71,38,9,0,0,0,63,0,Lower Than A Level,F,Fail
+109870,11,70,43,0,1,1,0,55,0,A Level or Equivalent,M,Fail
+110175,30,131,120,7,0,0,0,113,0,HE Qualification,M,Pass
+110243,11,55,38,0,0,0,0,54,0,Lower Than A Level,F,Fail
+110567,12,61,54,0,2,0,3,51,0,A Level or Equivalent,M,Pass
+111207,11,71,36,0,0,0,0,52,0,A Level or Equivalent,M,Fail
+111717,26,124,75,3,2,2,0,143,0,HE Qualification,F,Pass
+112789,12,70,42,0,5,1,0,55,0,HE Qualification,F,Fail
+112890,10,71,54,2,0,0,0,61,0,A Level or Equivalent,M,Fail
+113295,36,117,99,6,4,4,0,147,0,Lower Than A Level,M,Pass
+113678,17,93,34,6,1,1,4,71,0,HE Qualification,F,Fail
+114017,25,124,119,16,0,0,0,143,0,Post Graduate Qualification,F,Pass
+114999,34,120,108,2,0,0,0,148,0,HE Qualification,M,Pass
+115256,11,92,31,5,12,12,0,57,0,HE Qualification,M,Fail
+115345,16,60,34,0,0,0,0,60,0,A Level or Equivalent,F,Fail
+116120,15,92,52,6,2,2,0,84,0,Lower Than A Level,F,Pass
+116432,11,64,40,1,0,0,0,70,0,HE Qualification,F,Fail
+116541,27,132,132,3,0,0,0,114,0,HE Qualification,M,Pass
+116692,37,150,119,0,0,0,0,121,0,A Level or Equivalent,M,Pass
+117452,20,67,35,5,0,0,0,61,1,Lower Than A Level,M,Fail
+117567,12,63,36,0,0,0,2,54,0,A Level or Equivalent,F,Pass
+118120,15,54,37,6,0,0,0,61,0,HE Qualification,F,Fail
+118341,14,52,34,2,3,3,0,53,4,HE Qualification,F,Fail
+118983,20,109,129,1,0,0,0,122,0,HE Qualification,M,Pass
+119562,13,50,51,0,0,0,0,71,0,Lower Than A Level,M,Fail
+119721,18,86,34,9,1,1,0,66,0,A Level or Equivalent,M,Pass
+120768,11,70,42,0,1,0,2,70,0,Lower Than A Level,F,Fail
+121765,11,68,35,1,0,0,0,61,0,HE Qualification,M,Fail
+122234,10,70,42,2,0,0,0,55,0,A Level or Equivalent,M,Fail
+123044,34,129,102,2,2,2,0,140,0,A Level or Equivalent,M,Pass
+123768,12,50,37,1,4,0,0,60,0,HE Qualification,F,Pass
+125120,11,53,40,0,0,0,0,70,0,A Level or Equivalent,M,Fail
+125457,12,54,39,2,2,2,0,68,0,A Level or Equivalent,F,Fail
+126567,14,64,43,6,4,1,0,58,0,Lower Than A Level,M,Fail
+126890,10,59,42,0,0,2,0,54,0,A Level or Equivalent,F,Fail
+127582,20,129,113,2,0,0,0,122,0,A Level or Equivalent,F,Pass
+129955,3,44,23,3,1,1,0,9,0,A Level or Equivalent,M,Withdrawn
+130120,11,64,57,3,4,4,0,62,0,HE Qualification,M,Fail
+131267,15,73,46,1,0,1,3,55,0,A Level or Equivalent,F,Fail
+131345,15,83,39,0,1,1,0,64,0,HE Qualification,M,Pass
+132678,18,96,47,0,0,2,0,58,0,HE Qualification,F,Fail
+132976,30,116,130,0,1,1,0,100,0,Lower Than A Level,F,Pass
+134143,41,292,150,11,0,0,0,162,0,A Level or Equivalent,F,Distinction
+135335,0,17,2,0,0,0,0,12,0,Lower Than A Level,F,Withdrawn
+135400,4,26,15,1,0,0,0,4,0,Lower Than A Level,F,Withdrawn
+137873,22,126,116,1,0,0,0,140,0,A Level or Equivalent,M,Pass
+139801,12,98,36,4,0,1,0,52,0,A Level or Equivalent,M,Pass
+140124,10,77,44,0,0,0,0,54,0,Lower Than A Level,M,Fail
+140127,11,85,31,0,4,0,0,66,0,HE Qualification,M,Pass
+140209,13,52,52,8,0,2,0,71,0,A Level or Equivalent,M,Fail
+141230,10,70,57,0,3,1,0,72,0,A Level or Equivalent,F,Fail
+141355,35,147,119,3,0,0,0,105,0,A Level or Equivalent,F,Pass
+141377,0,3,1,0,0,0,0,13,0,A Level or Equivalent,M,Withdrawn
+141567,11,65,46,1,0,0,1,65,0,A Level or Equivalent,M,Fail
+141789,11,55,50,2,0,0,0,61,0,A Level or Equivalent,F,Fail
+142234,10,67,55,0,0,1,0,63,0,A Level or Equivalent,M,Fail
+142326,27,134,121,2,0,0,0,134,0,A Level or Equivalent,F,Pass
+143124,12,71,60,0,0,0,0,64,0,HE Qualification,F,Fail
+143278,10,72,45,0,1,0,0,51,0,A Level or Equivalent,M,Pass
+144801,36,102,129,27,2,2,0,150,2,HE Qualification,F,Pass
+145123,10,66,51,0,0,0,0,50,0,Lower Than A Level,M,Fail
+145130,20,126,126,2,0,0,0,118,0,HE Qualification,M,Pass
+145320,13,53,60,0,0,1,0,61,0,HE Qualification,M,Fail
+146188,10,56,55,2,2,2,0,59,0,A Level or Equivalent,F,Fail
+146201,11,50,67,3,5,0,0,61,0,A Level or Equivalent,M,Fail
+146290,11,67,37,9,0,0,0,53,0,Lower Than A Level,M,Pass
+147230,11,80,65,0,1,1,0,50,0,A Level or Equivalent,M,Fail
+147301,10,69,55,0,0,0,1,54,0,A Level or Equivalent,F,Fail
+147756,15,66,54,6,0,0,0,59,0,Lower Than A Level,M,Fail
+148993,3,36,10,0,0,0,0,17,0,A Level or Equivalent,F,Withdrawn
+149672,11,72,71,0,0,0,0,62,0,HE Qualification,M,Fail
+149764,10,73,38,0,0,0,0,52,0,A Level or Equivalent,M,Fail
+149800,12,63,54,0,0,1,2,55,0,HE Qualification,M,Pass
+149872,10,75,36,2,0,0,0,51,0,A Level or Equivalent,M,Fail
+151358,30,105,129,0,0,0,0,100,0,A Level or Equivalent,F,Pass
+152120,18,94,36,6,1,1,4,61,0,Lower Than A Level,F,Fail
+152124,11,91,33,5,12,12,0,57,0,HE Qualification,M,Fail
+152342,17,61,40,0,0,2,0,65,0,A Level or Equivalent,F,Fail
+153125,16,92,54,6,2,2,0,84,0,Lower Than A Level,F,Fail
+153423,11,73,42,1,0,1,0,70,0,HE Qualification,F,Fail
+154237,20,68,38,5,0,0,0,61,1,Lower Than A Level,M,Pass
+154267,11,80,39,0,5,0,0,52,0,A Level or Equivalent,F,Fail
+154312,15,63,36,6,0,0,2,61,0,HE Qualification,F,Fail
+154356,13,62,45,2,4,3,0,53,4,A Level or Equivalent,F,Fail
+155423,13,71,43,0,0,0,0,71,0,Lower Than A Level,M,Fail
+155456,19,86,37,9,1,1,0,68,0,A Level or Equivalent,M,Fail
+155550,31,118,115,4,0,0,0,150,0,A Level or Equivalent,M,Pass
+155789,11,89,36,0,1,0,0,65,0,Lower Than A Level,F,Fail
+155854,21,100,125,0,2,2,0,140,0,A Level or Equivalent,F,Pass
+155984,3,48,27,8,2,2,0,13,1,Lower Than A Level,F,Withdrawn
+156432,12,60,56,1,0,0,0,61,0,HE Qualification,M,Fail
+156753,10,80,44,2,0,0,0,71,0,A Level or Equivalent,M,Fail
+157145,11,52,39,1,0,0,0,70,0,HE Qualification,F,Pass
+157432,12,42,45,0,0,0,0,60,0,HE Qualification,M,Fail
+157568,37,134,79,2,1,1,0,109,0,A Level or Equivalent,F,Pass
+157623,12,65,37,2,2,2,0,58,0,A Level or Equivalent,F,Fail
+158156,14,64,44,6,0,1,2,53,0,Lower Than A Level,M,Pass
+158342,11,77,53,0,0,2,0,54,0,A Level or Equivalent,F,Fail
+158765,12,61,46,3,4,4,0,52,0,HE Qualification,M,Pass
+159123,14,52,35,1,0,1,0,65,0,Lower Than A Level,F,Pass
+159875,15,51,47,0,1,1,2,64,0,HE Qualification,M,Fail
+159954,10,24,24,1,2,2,0,12,0,A Level or Equivalent,M,Withdrawn
+160124,19,67,45,0,0,1,0,58,0,HE Qualification,F,Fail
+160567,11,58,36,4,0,1,0,72,0,A Level or Equivalent,M,Pass
+161234,11,67,40,0,0,0,0,59,0,HE Qualification,M,Fail
+161456,11,64,41,0,0,0,0,62,0,HE Qualification,M,Pass
+162435,14,90,31,8,3,0,0,51,0,A Level or Equivalent,M,Pass
+162678,10,88,52,0,0,1,0,72,0,A Level or Equivalent,F,Fail
+163476,11,79,34,1,0,0,0,52,0,HE Qualification,M,Pass
+163789,12,68,44,2,0,0,0,71,0,Lower Than A Level,F,Fail
+164120,10,54,42,0,0,1,0,63,0,A Level or Equivalent,M,Fail
+164220,13,62,40,0,0,0,0,74,0,HE Qualification,F,Fail
+164259,23,113,89,0,0,0,0,140,0,A Level or Equivalent,M,Pass
+165230,10,72,38,0,0,0,0,71,0,A Level or Equivalent,M,Fail
+165321,11,82,40,0,0,0,0,70,0,Lower Than A Level,F,Pass
+165340,13,52,36,0,2,1,0,61,0,HE Qualification,M,Fail
+165532,11,63,60,3,0,0,0,54,0,A Level or Equivalent,M,Fail
+165567,12,71,39,9,0,0,0,63,0,Lower Than A Level,F,Fail
+166453,11,78,43,0,1,1,0,57,0,HE Qualification,M,Pass
+167542,12,66,53,0,0,0,0,54,0,Lower Than A Level,F,Fail
+167543,12,71,56,0,0,0,0,61,0,HE Qualification,M,Pass
+167890,11,81,60,0,0,1,0,62,0,A Level or Equivalent,M,Fail
+167891,45,253,160,17,0,0,2,152,0,A Level or Equivalent,F,Distinction
+167906,35,106,123,0,0,0,0,147,0,A Level or Equivalent,F,Pass
+168936,24,105,112,1,0,0,0,131,0,Lower Than A Level,F,Pass
+168965,12,70,32,0,0,1,0,55,0,HE Qualification,F,Fail
+169123,10,71,40,2,0,0,0,61,0,A Level or Equivalent,M,Pass
+169543,17,93,34,6,1,1,4,52,0,HE Qualification,F,Fail
+169856,11,92,31,5,12,12,0,57,0,HE Qualification,M,Fail
+169875,16,60,39,0,0,0,0,60,0,A Level or Equivalent,F,Fail
+170243,15,90,50,6,2,2,0,73,0,Lower Than A Level,F,Pass
+170654,11,54,40,1,0,0,0,60,0,HE Qualification,F,Pass
+171267,20,67,35,5,0,1,0,61,1,Lower Than A Level,M,Fail
+171543,12,60,56,0,2,0,2,54,0,A Level or Equivalent,F,Fail
+171567,15,54,28,6,0,0,0,61,0,HE Qualification,F,Pass
+172001,14,63,53,2,3,3,0,53,4,HE Qualification,F,Fail
+172112,33,142,128,7,0,0,0,130,0,HE Qualification,M,Pass
+172365,56,282,170,11,0,1,0,162,0,A Level or Equivalent,F,Distinction
+172456,13,80,45,0,0,0,0,71,0,Lower Than A Level,M,Fail
+172670,18,86,65,9,1,1,0,66,0,HE Qualification,M,Fail
+172797,22,126,111,0,0,0,0,135,0,A Level or Equivalent,F,Pass
+172865,11,76,46,0,1,0,0,67,0,Lower Than A Level,F,Fail
+172896,11,68,65,1,0,0,0,51,0,HE Qualification,M,Fail
+172899,10,72,45,2,0,0,0,55,0,A Level or Equivalent,M,Pass
+172996,12,60,57,1,0,0,0,60,0,HE Qualification,F,Fail
+173456,11,53,42,0,0,0,0,70,0,A Level or Equivalent,M,Fail
+173524,12,74,39,2,2,2,0,68,0,A Level or Equivalent,F,Pass
+173678,14,64,45,6,0,1,0,58,0,Lower Than A Level,M,Pass
+173682,10,69,42,0,0,2,0,53,0,A Level or Equivalent,F,Fail
+174563,11,54,37,3,4,4,0,62,0,HE Qualification,M,Fail
+174782,35,138,98,2,3,3,0,139,0,HE Qualification,M,Pass
+174987,15,62,45,1,0,1,0,65,0,A Level or Equivalent,F,Fail
+175112,15,53,67,0,1,1,0,64,0,HE Qualification,M,Fail
+175392,28,143,120,6,0,0,0,104,0,HE Qualification,M,Pass
+175432,18,66,57,0,0,0,0,58,0,HE Qualification,F,Fail
+175890,12,50,60,4,0,1,0,52,0,A Level or Equivalent,M,Fail
+175932,36,148,120,0,0,0,0,128,0,HE Qualification,M,Pass
+175991,10,69,54,0,0,0,0,61,0,A Level or Equivalent,F,Fail
+176543,10,70,60,0,0,0,0,54,0,A Level or Equivalent,M,Fail
+177168,11,86,54,0,1,0,0,62,0,HE Qualification,F,Fail
+177651,13,52,63,8,0,1,0,81,0,A Level or Equivalent,M,Fail
+178234,10,80,53,0,0,1,0,57,0,A Level or Equivalent,F,Pass
+178453,11,72,56,1,0,0,0,54,0,HE Qualification,M,Fail
+178652,11,65,63,2,0,0,0,61,0,A Level or Equivalent,F,Pass
+178943,10,54,46,0,0,1,0,65,0,A Level or Equivalent,M,Fail
+179123,12,61,45,0,0,0,0,70,0,HE Qualification,F,Pass
+179526,10,72,45,0,1,0,0,56,0,A Level or Equivalent,M,Fail
+179543,10,56,12,0,0,0,0,60,0,Lower Than A Level,M,Fail
+179546,13,63,21,0,0,1,0,65,0,HE Qualification,M,Fail
+179572,11,58,70,3,1,0,0,54,0,A Level or Equivalent,M,Pass
+179801,11,71,45,9,0,0,0,63,0,Lower Than A Level,M,Fail
+180123,11,80,65,0,1,1,0,55,0,A Level or Equivalent,M,Pass
+180345,10,65,45,0,0,1,1,64,0,A Level or Equivalent,F,Pass
+180352,11,52,72,0,1,0,0,67,0,HE Qualification,M,Fail
+180567,10,63,58,0,0,0,0,52,0,A Level or Equivalent,M,Fail
+180653,12,53,54,0,0,1,0,55,0,HE Qualification,M,Fail
+180657,10,77,64,2,0,0,0,61,0,A Level or Equivalent,M,Fail
+180753,21,144,122,0,0,0,0,113,0,A Level or Equivalent,M,Pass
+181316,1,24,15,2,0,0,0,13,0,A Level or Equivalent,F,Withdrawn
+181345,19,94,36,6,1,1,4,56,0,Lower Than A Level,F,Fail
+182568,11,89,37,5,11,11,0,67,0,HE Qualification,M,Pass
+183096,33,143,110,0,0,0,0,138,0,A Level or Equivalent,F,Pass
+183947,20,132,113,4,0,0,0,139,0,A Level or Equivalent,M,Pass
+184271,35,132,111,0,1,1,0,129,0,HE Qualification,M,Pass
+185439,10,74,45,3,4,4,0,52,0,HE Qualification,M,Fail
+186149,24,138,118,0,11,11,0,116,0,HE Qualification,M,Pass
+187100,49,299,190,10,0,0,0,172,0,A Level or Equivalent,M,Distinction
+188278,7,23,17,4,3,3,0,12,0,A Level or Equivalent,M,Withdrawn
+189879,33,136,129,1,1,1,0,150,0,A Level or Equivalent,M,Pass
+192183,32,101,140,0,0,0,0,131,0,Lower Than A Level,F,Pass
+195262,0,23,6,2,0,0,0,19,0,A Level or Equivalent,M,Withdrawn
+200860,30,136,131,3,0,0,0,127,0,Lower Than A Level,M,Pass
+202635,1,11,11,4,2,2,0,13,0,A Level or Equivalent,F,Withdrawn
+205350,26,132,123,0,3,3,0,141,0,HE Qualification,M,Pass
+205719,16,62,35,1,0,0,0,70,0,A Level or Equivalent,M,Fail
+227499,53,259,200,11,0,0,0,182,0,A Level or Equivalent,F,Distinction
+227517,14,53,40,0,1,1,0,63,0,HE Qualification,M,Fail
+228082,30,111,111,0,0,0,0,111,0,HE Qualification,M,Pass
+228222,22,119,110,2,0,0,0,109,0,Lower Than A Level,M,Pass
+229179,32,131,121,2,0,0,0,107,0,A Level or Equivalent,M,Pass
+229361,26,124,113,0,0,0,0,120,0,A Level or Equivalent,M,Pass
+231554,22,140,117,1,0,0,0,139,1,A Level or Equivalent,M,Pass
+235507,2,11,9,1,0,0,0,23,0,A Level or Equivalent,M,Withdrawn
+236284,33,115,84,3,0,0,0,130,0,Post Graduate Qualification,M,Pass
+238007,39,147,99,1,0,0,0,127,0,HE Qualification,M,Pass
+240678,57,255,178,17,0,0,2,192,0,Post Graduate Qualification,F,Distinction
+240712,30,109,86,0,0,0,0,130,0,HE Qualification,M,Pass
+240884,24,125,99,2,0,0,0,129,0,A Level or Equivalent,M,Pass
+241649,38,145,97,1,0,0,0,128,0,HE Qualification,M,Pass
+241729,17,64,60,0,0,0,0,65,0,HE Qualification,F,Fail
+241987,50,279,190,15,0,1,0,200,0,A Level or Equivalent,M,Distinction
+242793,20,117,87,2,0,0,0,100,0,HE Qualification,M,Pass
+246834,35,140,120,0,0,0,0,135,0,A Level or Equivalent,M,Pass
+248270,25,124,120,3,3,3,0,132,0,Lower Than A Level,M,Pass
+255548,24,104,130,1,0,0,0,137,0,Lower Than A Level,M,Pass
+256815,30,115,76,0,0,0,0,100,0,HE Qualification,M,Pass
+258392,20,126,80,3,1,1,0,121,0,Lower Than A Level,F,Pass
+258894,21,105,77,0,0,0,0,147,0,Lower Than A Level,F,Pass
+260355,1,11,4,1,0,0,0,21,0,A Level or Equivalent,F,Withdrawn
+262011,36,148,84,4,1,1,2,137,0,A Level or Equivalent,M,Pass
+262934,20,119,80,4,0,0,0,136,0,A Level or Equivalent,F,Pass
+268073,13,72,38,4,0,0,0,73,0,A Level or Equivalent,M,Fail
+268733,0,4,2,0,0,0,0,31,0,A Level or Equivalent,M,Withdrawn
+271251,31,129,77,0,0,0,0,126,0,A Level or Equivalent,M,Pass
+277880,0,33,14,3,1,1,0,13,0,A Level or Equivalent,F,Withdrawn
+279572,46,303,179,12,0,0,0,153,0,Lower Than A Level,M,Distinction
+281022,21,120,81,0,0,0,0,120,0,A Level or Equivalent,F,Pass
+281250,10,59,50,0,0,0,0,54,0,Lower Than A Level,M,Fail
+281589,10,58,40,0,0,0,0,63,0,HE Qualification,M,Fail
+282821,31,138,76,0,0,0,0,144,0,A Level or Equivalent,M,Pass
+286488,24,131,96,1,0,0,0,141,0,A Level or Equivalent,M,Pass
+287548,32,121,96,1,1,1,0,131,0,A Level or Equivalent,M,Pass
+290201,21,148,121,2,1,1,0,122,0,A Level or Equivalent,M,Pass
+290757,32,118,113,0,0,0,0,122,0,A Level or Equivalent,M,Pass
+291334,45,306,189,12,0,0,1,163,3,A Level or Equivalent,M,Distinction
+293699,20,121,120,0,0,0,0,120,0,A Level or Equivalent,M,Pass
+294570,32,146,118,0,1,1,0,114,0,HE Qualification,M,Pass
+294594,34,136,130,1,0,0,0,121,0,A Level or Equivalent,M,Pass
+295741,13,54,36,8,0,0,0,56,0,A Level or Equivalent,M,Fail
+296332,41,248,156,10,3,3,0,173,0,Post Graduate Qualification,M,Distinction
+298696,28,131,120,0,0,0,0,123,0,HE Qualification,F,Pass
+300398,28,136,140,0,0,0,0,140,0,A Level or Equivalent,M,Pass
+302302,10,56,54,0,0,0,0,62,0,A Level or Equivalent,F,Fail
+305152,10,52,47,1,0,0,0,55,0,A Level or Equivalent,M,Fail
+305386,32,145,121,0,0,0,0,121,1,A Level or Equivalent,M,Pass
+306107,20,139,142,3,0,0,0,126,0,A Level or Equivalent,M,Pass
+306466,30,126,105,1,1,1,1,138,0,A Level or Equivalent,M,Distinction
+306897,22,149,118,0,0,0,0,128,0,A Level or Equivalent,F,Pass
+307061,36,132,127,1,0,0,0,124,0,HE Qualification,F,Pass
+307866,28,150,134,0,1,1,0,137,0,A Level or Equivalent,M,Pass
+311917,38,136,130,4,0,0,0,114,3,A Level or Equivalent,M,Pass
+312537,63,252,200,16,3,3,0,183,0,Post Graduate Qualification,M,Distinction
+312782,20,118,102,0,0,0,0,111,0,A Level or Equivalent,M,Pass
+318933,35,145,121,4,0,0,0,121,0,HE Qualification,F,Pass
+319047,22,147,122,3,1,1,0,142,0,A Level or Equivalent,F,Pass
+320876,52,280,189,15,0,0,0,193,0,A Level or Equivalent,M,Distinction
+320891,48,315,153,10,0,0,0,154,0,HE Qualification,M,Distinction
+321942,39,102,129,0,2,2,0,109,0,HE Qualification,M,Pass
+324002,29,117,98,3,0,0,0,143,0,HE Qualification,M,Pass
+324084,30,116,78,0,0,0,0,138,0,A Level or Equivalent,F,Pass
+324282,20,106,77,0,0,0,0,109,0,A Level or Equivalent,M,Pass
+324891,63,272,164,13,0,0,1,164,0,Lower Than A Level,M,Distinction
+324987,53,302,165,11,3,3,0,174,8,Lower Than A Level,M,Distinction
+331358,3,19,16,4,2,2,0,21,0,HE Qualification,F,Withdrawn
+332098,41,273,155,13,0,0,1,184,0,Lower Than A Level,M,Fail
+332560,40,311,156,11,0,0,1,194,0,Lower Than A Level,F,Distinction
+332678,56,302,152,10,0,0,0,155,0,HE Qualification,M,Distinction
+332789,21,118,75,2,2,2,0,120,0,A Level or Equivalent,F,Pass
+333059,22,108,81,0,0,0,0,121,0,A Level or Equivalent,M,Pass
+333323,23,124,90,2,0,0,0,106,0,HE Qualification,M,Pass
+334259,11,63,58,2,0,0,0,62,0,A Level or Equivalent,F,Fail
+334333,1,30,4,0,0,0,0,19,0,A Level or Equivalent,F,Withdrawn
+335678,47,321,207,11,3,3,0,165,8,HE Qualification,M,Distinction
+335764,3,31,19,1,0,0,0,18,0,A Level or Equivalent,F,Withdrawn
+335789,63,272,160,10,6,6,0,175,0,Lower Than A Level,F,Distinction
+336207,24,126,108,0,0,0,0,106,0,A Level or Equivalent,M,Pass
+339972,31,123,93,2,0,0,0,100,0,A Level or Equivalent,M,Pass
+342007,4,11,20,9,0,0,0,33,0,HE Qualification,F,Withdrawn
+342514,27,137,93,0,0,0,0,116,0,Lower Than A Level,M,Pass
+342972,36,135,84,0,1,1,0,118,0,HE Qualification,M,Pass
+343446,30,108,102,5,0,0,0,111,0,HE Qualification,M,Pass
+344282,10,70,45,0,0,0,0,80,0,A Level or Equivalent,M,Fail
+345068,21,111,84,2,0,0,0,104,0,A Level or Equivalent,M,Pass
+345357,53,264,170,10,0,0,0,185,0,A Level or Equivalent,M,Distinction
+346025,30,128,94,2,0,0,0,112,0,A Level or Equivalent,M,Pass
+346843,10,58,43,0,0,0,0,72,0,HE Qualification,F,Fail
+350188,20,135,87,3,0,0,0,117,0,HE Qualification,M,Pass
+354858,0,9,2,0,0,0,0,2,0,HE Qualification,M,Withdrawn
+357668,10,54,45,0,0,0,0,71,0,A Level or Equivalent,M,Fail
+364177,11,67,43,0,0,0,0,70,0,Lower Than A Level,M,Fail
+365244,29,125,92,0,0,0,0,145,0,A Level or Equivalent,F,Pass
+365642,37,121,81,2,0,0,0,136,0,Lower Than A Level,M,Pass
+366483,31,145,93,0,0,0,0,120,0,HE Qualification,M,Pass
+368194,20,111,75,3,0,0,0,132,0,A Level or Equivalent,F,Pass
+368824,13,64,35,0,0,0,0,51,0,HE Qualification,M,Fail
+368963,35,138,78,2,0,0,0,130,0,Lower Than A Level,M,Pass
+376439,51,252,167,10,0,0,0,195,0,HE Qualification,M,Distinction
+376581,20,128,89,0,0,0,0,129,0,A Level or Equivalent,F,Pass
+380953,32,140,93,0,1,1,0,121,0,A Level or Equivalent,M,Pass
+383254,22,118,77,2,0,0,0,130,0,A Level or Equivalent,M,Pass
+386924,30,111,78,0,0,0,0,120,0,Lower Than A Level,M,Pass
+386952,22,146,84,0,0,0,0,108,0,A Level or Equivalent,M,Pass
+388722,31,129,99,0,0,0,0,141,0,Lower Than A Level,F,Pass
+388885,22,124,101,3,0,0,0,125,0,A Level or Equivalent,M,Pass
+390890,8,12,26,4,0,0,0,12,0,A Level or Equivalent,M,Withdrawn
+392756,11,52,56,3,0,0,0,62,0,A Level or Equivalent,M,Fail
+392931,32,142,100,1,0,0,0,130,0,A Level or Equivalent,F,Pass
+393207,22,131,104,0,2,2,0,112,0,A Level or Equivalent,M,Pass
+396872,32,128,86,2,0,0,0,141,0,HE Qualification,M,Pass
+398552,10,73,40,9,0,0,0,53,0,Lower Than A Level,M,Fail
+401869,22,111,96,4,0,0,0,121,0,Lower Than A Level,F,Pass
+402470,28,128,87,0,0,0,0,117,0,Lower Than A Level,M,Pass
+402890,47,301,155,11,0,0,0,156,0,Lower Than A Level,F,Distinction
+403789,48,289,167,13,0,0,0,166,0,A Level or Equivalent,M,Distinction
+404804,31,122,78,0,0,0,0,124,0,Lower Than A Level,M,Pass
+405088,28,145,101,0,0,0,0,146,0,A Level or Equivalent,M,Pass
+414117,30,121,100,0,0,0,0,147,0,A Level or Equivalent,M,Pass
+415969,9,11,24,8,4,4,0,11,0,HE Qualification,M,Withdrawn
+420087,11,70,56,0,1,1,0,64,0,A Level or Equivalent,M,Fail
+429958,20,114,97,1,0,0,0,137,0,A Level or Equivalent,F,Pass
+441018,30,119,104,0,0,0,0,136,0,A Level or Equivalent,F,Pass
+441888,20,134,116,3,0,0,0,118,0,A Level or Equivalent,M,Pass
+442442,2,13,12,1,0,0,0,21,0,HE Qualification,M,Withdrawn
+444677,40,283,168,10,0,0,0,176,0,HE Qualification,M,Distinction
+470588,5,13,15,0,0,0,0,25,0,HE Qualification,M,Withdrawn
+489455,30,151,0,3,0,0,0,136,0,A Level or Equivalent,F,Pass
+494424,10,80,45,0,0,0,0,70,0,A Level or Equivalent,F,Pass
+495284,21,150,90,2,0,0,0,123,0,HE Qualification,M,Pass
+498857,32,136,80,2,1,1,0,134,0,HE Qualification,M,Withdrawn
+508818,32,136,76,2,0,0,0,118,0,A Level or Equivalent,M,Pass
+512460,21,110,90,2,0,0,0,130,0,HE Qualification,M,Pass
+544103,37,143,79,0,4,4,0,148,0,HE Qualification,M,Withdrawn
+550383,31,146,77,0,1,1,0,123,0,HE Qualification,M,Pass
+564450,11,48,38,0,0,0,0,60,0,HE Qualification,M,Fail
+568601,3,11,12,2,0,0,0,21,0,HE Qualification,F,Withdrawn
+570345,62,291,172,13,0,0,0,186,0,A Level or Equivalent,M,Distinction
+570892,53,296,192,15,0,0,0,196,0,A Level or Equivalent,M,Distinction
+572652,20,130,78,5,0,0,0,134,0,HE Qualification,M,Pass
+580389,30,128,88,2,0,0,0,145,0,HE Qualification,M,Pass
+581129,10,51,39,0,0,0,0,62,0,A Level or Equivalent,M,Pass
+588775,34,113,99,2,1,1,2,116,0,A Level or Equivalent,M,Pass
+591774,31,123,108,1,0,0,0,119,0,Post Graduate Qualification,M,Pass
+603861,1,33,11,1,0,0,0,34,0,HE Qualification,M,Withdrawn
+606143,10,52,45,0,0,0,0,56,0,Post Graduate Qualification,M,Fail
+674567,57,273,160,10,6,6,1,157,0,Lower Than A Level,F,Distinction
+678213,47,279,198,11,0,0,0,167,0,A Level or Equivalent,M,Distinction
+704156,37,128,106,4,0,0,0,145,0,HE Qualification,M,Pass
+705379,41,295,193,15,0,0,0,177,0,A Level or Equivalent,M,Distinction
+721259,7,29,13,2,3,3,3,23,0,Lower Than A Level,F,Withdrawn
+749412,32,126,102,0,0,0,0,146,0,Lower Than A Level,M,Pass
+760729,40,273,198,11,0,0,0,187,0,A Level or Equivalent,M,Distinction
+809123,59,308,166,10,0,0,0,197,0,HE Qualification,M,Distinction
+810765,60,298,168,10,0,1,0,158,0,HE Qualification,M,Distinction
+811234,52,295,193,15,0,0,0,168,0,A Level or Equivalent,M,Pass
+811256,48,277,199,11,0,0,0,178,0,A Level or Equivalent,M,Distinction
+905042,31,148,107,4,1,1,0,144,0,A Level or Equivalent,F,Pass
+949618,27,145,103,0,0,0,0,132,0,A Level or Equivalent,F,Pass
+958987,29,127,101,0,0,0,0,120,0,HE Qualification,M,Pass
+968578,30,111,123,0,1,1,0,113,0,A Level or Equivalent,F,Pass
+969076,0,19,9,4,1,1,0,23,0,A Level or Equivalent,M,Withdrawn
+971027,27,114,124,6,1,1,0,118,0,HE Qualification,F,Pass
+978739,39,161,108,16,4,4,15,110,0,HE Qualification,M,Pass
+992314,43,304,170,10,0,0,2,188,0,A Level or Equivalent,M,Distinction
+997891,51,301,166,10,0,0,1,198,0,HE Qualification,M,Distinction
+1012456,52,300,167,10,0,0,0,159,0,HE Qualification,M,Distinction
+1016782,63,251,199,16,3,3,0,169,1,Post Graduate Qualification,M,Distinction
+1035023,40,124,113,2,0,0,0,128,0,Lower Than A Level,F,Pass
+1105478,33,149,108,3,6,6,0,119,0,HE Qualification,M,Pass
+1352868,4,32,20,1,0,0,0,26,0,A Level or Equivalent,M,Withdrawn
+1401935,10,80,46,2,0,0,0,52,0,A Level or Equivalent,M,Fail
+1402638,21,134,117,0,0,0,0,111,0,HE Qualification,F,Pass
+1414443,18,94,36,6,1,1,4,60,0,A Level or Equivalent,F,Fail
+1456619,1,40,14,5,3,3,0,22,0,A Level or Equivalent,M,Withdrawn
+1465690,26,102,123,0,1,1,0,126,0,HE Qualification,M,Pass
+1488959,30,129,104,2,2,2,0,129,4,A Level or Equivalent,M,Pass
+1518989,33,102,102,4,1,1,0,114,0,Lower Than A Level,F,Pass
+1618738,21,138,103,3,0,0,0,150,0,Lower Than A Level,M,Pass
+1620151,11,91,33,5,12,12,0,58,0,HE Qualification,M,Fail
+1626710,71,288,172,13,0,0,0,179,0,A Level or Equivalent,M,Distinction
+1640609,29,132,102,0,0,0,3,116,0,A Level or Equivalent,M,Pass
+1686521,9,14,13,8,0,0,0,28,0,Lower Than A Level,F,Withdrawn
+1729319,23,138,115,2,0,0,0,132,0,HE Qualification,F,Pass
+1746134,28,139,124,7,0,0,1,126,0,A Level or Equivalent,M,Pass
+1758449,2,11,23,2,1,1,0,21,1,Lower Than A Level,M,Withdrawn
+1765788,30,137,103,9,0,0,0,115,0,HE Qualification,M,Pass
+1801229,21,118,105,3,0,0,0,143,1,HE Qualification,M,Pass
+1801641,34,121,111,5,0,0,0,131,0,A Level or Equivalent,M,Pass
+1847830,28,135,103,6,1,1,0,121,0,Lower Than A Level,M,Withdrawn
+1860318,32,148,95,0,1,1,0,150,0,Lower Than A Level,M,Pass
+1889511,32,116,114,2,0,0,0,145,0,A Level or Equivalent,M,Pass
+1889577,34,105,123,2,1,1,0,131,0,A Level or Equivalent,F,Withdrawn
+1894188,26,127,113,9,0,0,0,130,0,A Level or Equivalent,F,Pass
+1938355,26,118,121,0,0,0,0,145,0,A Level or Equivalent,M,Pass
+1942396,33,127,109,0,0,0,0,123,0,Lower Than A Level,F,Pass
+1970390,4,33,18,7,1,1,0,24,0,Lower Than A Level,M,Withdrawn
+1976139,30,118,125,1,0,0,0,120,0,Lower Than A Level,M,Pass
+2011876,22,125,134,4,1,1,1,123,0,A Level or Equivalent,F,Pass
+2012966,32,150,116,4,0,0,0,131,0,Lower Than A Level,M,Pass
+2051699,29,111,134,9,1,1,0,125,0,Lower Than A Level,F,Pass
+2062879,17,63,39,0,0,0,0,62,0,A Level or Equivalent,F,Fail
+2073016,4,24,17,10,3,3,0,13,0,Lower Than A Level,F,Withdrawn
+2080474,28,133,121,0,0,0,0,120,1,A Level or Equivalent,F,Pass
+2083877,32,146,123,3,0,0,0,112,0,A Level or Equivalent,F,Pass
+2084066,16,94,65,6,2,2,0,85,0,Lower Than A Level,F,Fail
+2104505,39,140,103,7,0,0,0,111,0,Lower Than A Level,M,Pass
+2122180,62,270,160,10,6,6,0,189,0,Lower Than A Level,F,Distinction
+2139353,4,23,18,3,0,0,0,17,0,A Level or Equivalent,M,Withdrawn
+2143752,22,116,104,0,0,0,0,105,0,Lower Than A Level,F,Pass
+2146792,22,106,115,0,0,0,0,114,0,HE Qualification,M,Pass
+2149225,1,11,1,0,0,0,0,15,0,A Level or Equivalent,M,Withdrawn
+2153153,32,156,134,4,2,2,0,111,2,A Level or Equivalent,F,Pass
+2155014,29,147,116,0,4,4,0,121,0,Lower Than A Level,F,Pass
+2164561,50,302,191,12,0,0,1,199,3,A Level or Equivalent,M,Distinction
+2164705,11,64,45,1,0,0,0,71,0,A Level or Equivalent,F,Fail
+2165432,40,265,200,16,3,3,0,152,0,Post Graduate Qualification,M,Distinction
+2167893,41,254,156,10,3,3,0,162,0,Post Graduate Qualification,M,Pass
+2168932,43,257,169,10,0,0,0,172,0,HE Qualification,M,Distinction
+2171627,31,123,118,1,0,0,0,118,0,A Level or Equivalent,F,Pass
+2182846,24,128,111,0,0,0,0,128,0,A Level or Equivalent,F,Pass
+2194100,36,149,131,0,0,0,0,115,0,A Level or Equivalent,F,Pass
+2197016,27,130,110,0,0,0,0,127,0,HE Qualification,F,Pass
+2208424,34,126,113,0,1,1,0,132,0,A Level or Equivalent,M,Pass
+2229865,21,109,126,7,1,1,0,125,0,A Level or Equivalent,F,Pass
+2255601,7,24,23,6,0,0,1,18,0,A Level or Equivalent,F,Withdrawn
+2268379,29,126,124,2,1,1,0,134,0,A Level or Equivalent,F,Pass
+2278464,32,122,119,1,0,0,0,115,0,Lower Than A Level,M,Pass
+2293923,21,112,118,1,0,0,0,120,0,A Level or Equivalent,M,Pass
+2312620,3,22,9,5,1,1,0,17,1,HE Qualification,F,Withdrawn
+2329342,38,125,104,4,1,1,0,138,0,Lower Than A Level,F,Pass
+2339528,65,301,155,11,0,0,0,182,0,Lower Than A Level,F,Distinction
+2342426,20,72,56,5,0,0,0,60,1,Lower Than A Level,M,Fail
+2344901,10,80,34,0,0,0,0,71,0,A Level or Equivalent,F,Fail
+2358056,15,56,32,6,0,0,0,62,0,HE Qualification,F,Fail
+2358969,1,38,10,1,1,1,0,10,0,A Level or Equivalent,F,Withdrawn
+2364471,34,109,116,4,2,2,0,149,0,HE Qualification,F,Pass
+2367155,31,106,132,5,0,0,0,124,0,A Level or Equivalent,F,Pass
+2369266,27,108,115,2,0,0,0,120,0,Lower Than A Level,F,Pass
+2376496,23,144,123,21,1,1,1,111,2,A Level or Equivalent,F,Pass
+2391984,4,23,9,3,0,0,0,15,0,A Level or Equivalent,M,Withdrawn
+2411661,13,57,54,2,3,3,0,58,4,A Level or Equivalent,F,Fail
+2411778,0,30,7,0,0,0,0,21,0,HE Qualification,M,Withdrawn
+2412002,61,272,207,11,3,3,0,192,8,Lower Than A Level,M,Distinction
+2412967,35,142,123,0,0,0,0,133,0,A Level or Equivalent,F,Pass
+2413567,72,253,171,11,0,0,1,153,0,A Level or Equivalent,F,Distinction
+2414532,68,276,156,10,3,3,0,163,0,Post Graduate Qualification,M,Distinction
+2418923,63,302,179,12,0,1,0,173,0,Lower Than A Level,M,Distinction
+2418932,62,316,190,12,0,0,1,183,3,A Level or Equivalent,M,Pass
+2426710,58,313,179,12,0,0,1,193,0,Lower Than A Level,M,Distinction
+2426781,51,259,170,11,0,0,0,200,0,A Level or Equivalent,F,Distinction
+2428761,52,290,219,10,2,1,0,199,1,Post Graduate Qualification,M,Distinction
+2429854,6,35,17,4,0,0,0,21,0,A Level or Equivalent,M,Withdrawn
+2431256,56,250,178,17,1,1,2,188,0,A Level or Equivalent,F,Distinction
+2431789,54,314,169,11,0,0,0,177,0,A Level or Equivalent,F,Distinction
+2437837,36,106,131,0,0,0,0,129,0,A Level or Equivalent,F,Pass
+2438961,46,276,220,10,0,0,0,166,0,Post Graduate Qualification,M,Distinction
+2441256,45,268,165,13,2,0,0,155,1,Lower Than A Level,M,Distinction
+2443678,46,278,189,15,0,0,0,150,0,A Level or Equivalent,M,Distinction
+2447856,47,255,178,17,0,0,2,160,0,A Level or Equivalent,F,Distinction
+2448342,48,324,170,11,0,0,0,170,0,A Level or Equivalent,F,Distinction
+2449878,30,117,118,2,0,0,0,131,0,A Level or Equivalent,F,Pass
+2456480,10,61,43,0,0,0,0,70,0,Lower Than A Level,M,Fail
+2457256,29,101,119,3,0,0,0,143,0,Lower Than A Level,M,Pass
+2458355,28,109,121,0,0,0,0,148,0,Lower Than A Level,M,Pass
+2460080,33,107,114,0,1,1,0,133,0,HE Qualification,M,Pass
+2461190,19,60,34,9,1,1,0,59,0,HE Qualification,M,Fail
+2469673,10,62,67,0,0,0,0,60,0,Lower Than A Level,F,Fail
+2470694,1,12,17,8,0,0,0,14,0,HE Qualification,F,Withdrawn
+2479954,20,108,114,0,0,0,0,140,0,A Level or Equivalent,M,Pass
+2481901,30,151,111,0,0,0,0,135,0,Lower Than A Level,M,Pass
+2482700,21,128,112,1,2,2,0,145,0,Lower Than A Level,M,Pass
+2486127,30,150,116,3,0,0,0,138,0,HE Qualification,F,Distinction
+2498700,32,140,106,1,0,0,0,123,0,Lower Than A Level,F,Pass
+2516503,33,145,115,0,0,0,0,152,0,HE Qualification,M,Pass
+2518069,32,149,114,2,0,0,0,141,0,A Level or Equivalent,M,Pass
+2521459,28,144,126,3,0,0,0,123,0,Lower Than A Level,F,Pass
+2523736,30,136,118,3,1,1,0,132,0,A Level or Equivalent,M,Pass
+2529279,28,135,112,0,0,0,0,145,0,HE Qualification,F,Pass
+2532302,33,127,122,2,0,0,0,135,0,A Level or Equivalent,F,Pass
+2535678,49,272,164,13,0,0,0,180,0,Lower Than A Level,M,Distinction
+2536781,59,325,152,10,0,0,2,190,0,HE Qualification,M,Distinction
+2536991,61,270,152,10,0,0,0,191,0,HE Qualification,M,Fail
+2538791,60,283,206,11,3,3,0,181,8,Lower Than A Level,M,Distinction
+2538976,54,280,189,15,0,0,2,171,0,A Level or Equivalent,M,Distinction
+2542724,1,14,3,0,1,1,0,19,0,Lower Than A Level,F,Withdrawn
+2550279,41,126,114,10,0,0,0,137,0,HE Qualification,F,Pass
+2551220,26,125,115,0,1,1,0,138,0,Lower Than A Level,F,Pass
+2552472,0,24,8,4,0,0,0,19,0,HE Qualification,F,Withdrawn
+2555340,38,123,124,0,9,9,0,114,0,HE Qualification,F,Pass
+2556456,53,270,206,11,3,3,0,161,8,Lower Than A Level,M,Distinction
+2556789,45,273,161,10,6,6,2,151,0,Lower Than A Level,F,Distinction
+2557283,24,167,115,3,0,0,0,125,0,HE Qualification,M,Pass
+2558123,40,283,152,10,0,0,0,152,0,HE Qualification,M,Distinction
+2558965,42,290,155,11,0,0,0,149,0,Lower Than A Level,F,Distinction
+2559575,31,129,118,0,0,0,0,143,0,Lower Than A Level,M,Pass
+2561890,71,295,172,13,1,0,0,156,1,A Level or Equivalent,M,Distinction
+2562034,21,111,113,1,0,0,0,139,0,A Level or Equivalent,M,Pass
+2566163,33,142,123,1,0,0,1,138,0,A Level or Equivalent,F,Pass
+2566592,35,127,110,1,0,0,0,143,0,A Level or Equivalent,F,Pass
+2568921,65,311,155,11,0,0,1,157,0,Lower Than A Level,F,Distinction
+2569324,0,4,0,0,0,0,0,21,0,A Level or Equivalent,M,Withdrawn
+2569801,45,276,161,10,6,6,0,153,0,Lower Than A Level,F,Distinction
+2571234,62,269,170,10,0,0,0,167,0,HE Qualification,M,Distinction
+2571278,51,273,193,15,2,0,1,165,0,A Level or Equivalent,M,Fail
+2571467,40,290,200,11,0,0,0,168,0,A Level or Equivalent,M,Distinction
+2574528,25,139,110,2,0,0,0,138,0,HE Qualification,M,Pass
+2574583,23,144,111,0,1,1,0,134,0,Lower Than A Level,M,Pass
+2576122,7,47,12,1,0,0,0,12,0,A Level or Equivalent,M,Withdrawn
+2576789,44,169,197,11,0,0,0,173,0,A Level or Equivalent,M,Distinction
+2578761,52,273,172,13,0,0,0,175,0,A Level or Equivalent,M,Distinction
+2578995,38,145,119,2,0,0,0,126,0,A Level or Equivalent,F,Pass
+2586560,39,112,113,0,1,1,0,127,0,Lower Than A Level,F,Pass
+2594139,29,148,104,1,3,3,0,137,0,A Level or Equivalent,F,Pass
+2598871,34,144,115,0,1,1,0,145,0,A Level or Equivalent,F,Pass
+2599352,25,123,107,0,0,0,0,146,0,A Level or Equivalent,F,Pass
+2600021,49,276,193,15,0,0,1,169,0,A Level or Equivalent,M,Distinction
+2600688,32,132,114,0,0,0,0,147,0,A Level or Equivalent,M,Pass
+2603456,54,280,167,10,0,0,0,168,0,HE Qualification,M,Distinction
+2605789,62,283,168,10,1,1,0,178,0,HE Qualification,M,Distinction
+2606098,20,111,116,0,0,0,0,150,0,A Level or Equivalent,F,Pass
+2607890,50,276,201,16,3,3,1,180,0,Post Graduate Qualification,M,Distinction
+2613116,33,131,108,0,0,0,0,140,0,Lower Than A Level,F,Pass
+2614567,61,294,170,10,0,0,0,193,0,A Level or Equivalent,M,Distinction
+2617002,32,119,118,3,1,1,0,120,0,A Level or Equivalent,F,Pass
+2618907,40,306,169,10,0,0,0,196,0,HE Qualification,M,Distinction
+2620584,10,70,56,1,0,0,0,52,0,A Level or Equivalent,M,Fail
+2639449,21,129,115,0,0,0,1,131,0,A Level or Equivalent,M,Pass
+2639540,38,151,123,6,2,2,0,145,0,A Level or Equivalent,F,Pass
+2639641,27,126,124,0,0,0,0,127,0,Lower Than A Level,M,Pass
+2641155,32,134,114,2,1,1,0,122,0,Lower Than A Level,M,Pass
+2643002,34,128,117,10,2,2,0,139,0,A Level or Equivalent,F,Pass
+2645733,21,125,126,1,0,0,0,137,0,A Level or Equivalent,F,Pass
+2649826,48,290,164,13,0,0,0,199,0,Lower Than A Level,M,Distinction
+2650282,39,125,125,7,0,0,0,121,0,A Level or Equivalent,M,Pass
+2664024,25,123,111,3,0,0,0,136,0,HE Qualification,M,Pass
+2666246,34,119,120,1,0,0,0,133,0,A Level or Equivalent,M,Pass
+2669816,10,50,46,2,0,0,0,65,0,A Level or Equivalent,M,Fail
+2671132,30,147,112,2,0,0,0,128,0,HE Qualification,M,Pass
+2671245,56,293,179,12,0,0,0,197,0,Lower Than A Level,M,Distinction
+2671356,45,283,157,10,3,3,0,198,0,Post Graduate Qualification,M,Distinction
+2674561,52,257,190,12,2,0,1,184,3,A Level or Equivalent,M,Pass
+2676451,57,268,156,10,3,3,0,183,0,A Level or Equivalent,M,Distinction
+2676532,54,300,199,16,3,3,0,172,0,Post Graduate Qualification,M,Distinction
+2676809,10,65,49,1,0,0,0,61,0,HE Qualification,F,Fail
+2678643,21,137,105,7,1,1,0,142,0,A Level or Equivalent,F,Pass
+2685865,36,138,99,2,0,0,0,137,0,Lower Than A Level,F,Pass
+2687078,53,302,189,12,0,0,1,168,3,A Level or Equivalent,M,Distinction
+2688067,21,111,79,2,0,0,0,120,0,A Level or Equivalent,M,Pass
+2688246,62,257,169,11,1,1,1,159,0,A Level or Equivalent,F,Distinction
+2689958,59,281,189,15,0,0,0,150,0,A Level or Equivalent,M,Fail
+2691206,60,255,178,17,0,0,2,195,0,A Level or Equivalent,F,Distinction
+2691244,30,111,77,1,0,0,0,135,0,A Level or Equivalent,M,Pass
+2694424,37,116,90,1,0,0,0,147,0,A Level or Equivalent,M,Pass
+2697178,52,305,180,12,0,0,0,186,0,Lower Than A Level,M,Distinction
+2697652,51,276,201,10,0,0,1,177,0,A Level or Equivalent,M,Distinction
+2697654,60,296,202,10,0,0,0,168,0,A Level or Equivalent,M,Distinction
+2698235,40,258,200,11,0,0,1,159,0,A Level or Equivalent,F,Fail
+2698247,51,314,180,11,1,0,0,200,0,A Level or Equivalent,F,Distinction
+2698257,20,129,90,7,0,0,0,143,0,Lower Than A Level,M,Pass
